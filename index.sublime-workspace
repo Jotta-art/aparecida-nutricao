@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"f",
+				"focado"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"titu",
+				"titulo"
+			],
+			[
+				"btn-",
+				"btn-block"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"inpu",
+				"input-group"
+			],
+			[
+				"fil",
+				"filtro"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"id",
+				"Indent XML"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/joaopedro/Downloads/verXml.xml",
+		"/home/joaopedro/Imagens/verXmlchama.xml",
+		"/home/joaopedro/Área de Trabalho/arquivo.c",
+		"/home/joaopedro/IdeaProjects/URI/.gitignore",
+		"/home/joaopedro/Área de Trabalho/2051-solid-java-aula_4/src/br/com/alura/rh/model/DadosPessoais.java",
+		"/home/joaopedro/Área de Trabalho/2051-solid-java-aula_4/src/br/com/alura/rh/model/Terceirizado.java",
+		"/home/joaopedro/Área de Trabalho/2051-solid-java-aula_4/src/br/com/alura/rh/model/Funcionario.java",
+		"/home/joaopedro/Área de Trabalho/2051-solid-java-aula_4/src/br/com/alura/rh/model/Cargo.java",
+		"/home/joaopedro/IdeaProjects/loja/.gitignore",
+		"/home/joaopedro/Música/Rem 4 para 9.xml",
+		"/home/joaopedro/Documentos/verXmlRemessa.xml",
+		"/home/joaopedro/.m2/settings.xml",
+		"/home/joaopedro/Imagens/Remessa.xml",
+		"/home/joaopedro/Downloads/Nota 4 p 9 editadav2.xml",
+		"/home/joaopedro/Área de Trabalho/settings.xml",
+		"/home/joaopedro/Downloads/apache-tomcat-9.0.43/conf/context.xml",
+		"/home/joaopedro/Documentos/loja-virtual-repository/.gitignore",
+		"/home/joaopedro/Área de Trabalho/Como utilizar o banco do BETA:",
+		"/home/joaopedro/Área de Trabalho/4° Feedback  - Dia 09-03",
+		"/home/joaopedro/.zshrc",
+		"/home/joaopedro/Documentos/ALPALAPA/oimundo.c",
+		"/home/joaopedro/Documentos/ERP informações",
+		"/home/joaopedro/Área de Trabalho/Matérias a cortar",
+		"/home/joaopedro/Documentos/teste/index.html",
+		"/erp/.gitignore",
+		"/home/joaopedro/IdeaProjects/gerenciador/.gitignore",
+		"/home/joaopedro/Documentos/01-alurapic/alurapic/public/partials/foto.html",
+		"/home/joaopedro/Documentos/01-alurapic/alurapic/public/js/directives/minhas-diretivas.js",
+		"/home/joaopedro/Documentos/01-alurapic/alurapic/public/js/services/meus-servicos.js",
+		"/home/joaopedro/Documentos/01-alurapic/alurapic/public/js/controllers/foto-controller.js",
+		"/home/joaopedro/Documentos/01-alurapic/alurapic/public/js/controllers/fotos-controller.js",
+		"/home/joaopedro/Documentos/01-alurapic/alurapic/public/js/main.js",
+		"/home/joaopedro/Documentos/01-alurapic/alurapic/public/index.html",
+		"/home/joaopedro/Documentos/01-alurapic/alurapic/public/partials/principal.html",
+		"/home/joaopedro/Documentos/01-alurapic/alurapic/public/js/directives/minha-foto.html",
+		"/home/joaopedro/Documentos/01-alurapic/alurapic/public/js/directives/meu-painel.html",
+		"/home/joaopedro/Documentos/01-alurapic/alurapic/public/js/controllers/grupos-controller.js",
+		"/home/joaopedro/Área de Trabalho/untitled.json",
+		"/home/joaopedro/Documentos/01-alurapic/alurapic/public/css/efeitos.css",
+		"/home/joaopedro/.gradle/gradle.properties"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 146.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
