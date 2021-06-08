@@ -1,2 +1,2 @@
-# aparecida-nutricao
-Projeto de estudos JavaScript Alura 
+# Aparecida Nutrição
+Projeto de estudos sobre o básico do JavaScript  pela Alura
